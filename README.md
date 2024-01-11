@@ -1,4 +1,4 @@
-[Java Enterprise Online Project]
+[Java Enterprise online internship project]
 (https://javaops.ru/view/topjava)
 ===============================
 Стажировка TopJava:
